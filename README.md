@@ -9,7 +9,7 @@ Download [Postman](https://www.postman.com/) in order to be to test out the API.
 `yarn && yarn start`
 
 ## Use "Now" endpoint
-[nestjs-tasks-2n07qcsbx.now.sh](nestjs-tasks-2n07qcsbx.now.sh)
+[express-tasks-p4112o1yp.now.sh](express-tasks-p4112o1yp.now.sh)
 
 ## Endpoints
 GET `/tasks` - retrieve a collection of tasks  
