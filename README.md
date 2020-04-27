@@ -1,4 +1,4 @@
-# NestJS based proof of concept for Future Freight's BFF
+# Express-based proof of concept for Future Freight's BFF
 
 ## Spin up
 To test it out locally, simply:
