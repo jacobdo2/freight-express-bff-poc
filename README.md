@@ -12,8 +12,8 @@ Download [Postman](https://www.postman.com/) in order to be to test out the API.
 [nestjs-tasks-2n07qcsbx.now.sh](nestjs-tasks-2n07qcsbx.now.sh)
 
 ## Endpoints
-GET `/tasks` - retrieve a collection of tasks 
-POST `/tasks` - create a new task (Request body must contain "title" and "description" 
-GET `/tasks/:id` - get task by id 
-PATCH `/tasks/:id` - update existing task (Request body should have at least one of the following - "title", "description", "status") 
-DELETE `/tasks/:id` - delete existing task 
+GET `/tasks` - retrieve a collection of tasks  
+POST `/tasks` - create a new task (Request body must contain "title" and "description"  
+GET `/tasks/:id` - get task by id  
+PATCH `/tasks/:id` - update existing task (Request body should have at least one of the following - "title", "description", "status")  
+DELETE `/tasks/:id` - delete existing task  
